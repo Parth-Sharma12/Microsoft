@@ -1,0 +1,2 @@
+Given an integer array, find the maximum integer K which appears exactly K times in the array.
+Given a string which only consists of 'A', 'B', 'C' and 'D' characters, return the modified string after removing all occurances of adjacent 'A', 'B' and adjacent 'B', 'D'. (So basically remove all AB, BA, CD, DC from the string).
