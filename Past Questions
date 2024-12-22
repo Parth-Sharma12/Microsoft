@@ -1,2 +1,3 @@
 Given an integer array, find the maximum integer K which appears exactly K times in the array.
 Given a string which only consists of 'A', 'B', 'C' and 'D' characters, return the modified string after removing all occurances of adjacent 'A', 'B' and adjacent 'B', 'D'. (So basically remove all AB, BA, CD, DC from the string).
+Given a linked list where each node of the LL is a char. The entire LL is some jumbled up words specifially integer. For e.g reheesvegnthite is jumbled up word for eightseventhree. Return the output in sorted order of integer i.e 3, 7 , 8. Working solution was expected. With all test cases covered.
